@@ -19,7 +19,6 @@
 <a href="https://twitter.com/iAmAsifNewaz" target="blank"><img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="Asifnnewaz" height="22" width="22" /></a>
 <a href="https://linkedin.com/in/measifnewaz" target="blank"><img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="Asifnewaz" height="22" width="22" /></a>
 
-
 <br />
 
 ### Languages and Tools:
