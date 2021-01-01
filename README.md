@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Asif Newaz</h1>
 <h3 align="center">A programmer and born at very little age😜</h3>
 
-![Twitter Follow](https://img.shields.io/twitter/follow/measifnewaz?label=iAmAsifNewaz&logo=twitter&style=for-the-badge)
+![Twitter Follow](https://img.shields.io/twitter/follow/measifnewaz?label=measifnewaz&logo=twitter&style=for-the-badge)
 ![GitHub followers](https://img.shields.io/github/followers/Asifnewaz?logo=GitHub&style=for-the-badge)
 
 - 🔭 I’m currently working on a Flutter project
