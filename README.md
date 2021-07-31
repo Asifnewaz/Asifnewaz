@@ -6,7 +6,7 @@
 
 - 🔭 I’m currently working on a Objective C project
 
-- 🌱 I’m currently learning **Objective C, SwiftUI**
+- 🌱 I’m currently learning **Metal**, **Open GL**
 
 - 👯 I’m looking to collaborate with **other content creators**
 
