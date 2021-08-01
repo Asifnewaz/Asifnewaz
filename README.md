@@ -12,7 +12,7 @@
 
 - 📫 How to reach me: [Email](mail.asifnewaz@gmail.com)
 
-- ⚡ Fun fact **I love to play games and Chai over coffee.**
+- ⚡ Fun fact **I love to play games.**
 
 ### Connect with me:
 
