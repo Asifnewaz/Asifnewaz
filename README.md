@@ -26,5 +26,8 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Asifnewaz&show_icons=true" alt="Asifnewaz" /></p>
 
+**Stats :**  
+[![Asif's github ranking](https://github-readme-ranking.vercel.app/api/rank?username=Asifnewaz&country_code=bangladesh&theme=dark)](https://github.com/Muhammadsher/github-readme-ranking)
+
 <!-- Most Used Language:  <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Asifnewaz&layout=compact&hide=html"
 alt="Asifnewaz" /></p>
