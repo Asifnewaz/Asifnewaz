@@ -1,7 +1,4 @@
 <h1 align="center">Hi 👋, I'm Asif Newaz</h1>
-<h3 align="center">A programmer and born at very little age😜</h3>
-
-
 
 - 🔭 I’m currently working on iOS project
 
