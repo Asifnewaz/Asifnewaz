@@ -2,7 +2,7 @@
 
 - 🔭 I’m currently working on iOS project
 
-- 🌱  I’m currently learning Algorithm & Data Structure
+- 🌱  I’m currently improving my Algorithm & Data Structure skills
 
 - 👯 I’m looking to collaborate with **other content creators**
 
